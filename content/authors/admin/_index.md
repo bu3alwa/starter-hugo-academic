@@ -26,10 +26,4 @@ superuser: true
 highlight_name: true
 title: Ali Ali
 email: ""
----
-<<<<<<< HEAD
-
-#{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
-=======
 I am a computer science graduate that is interested in
->>>>>>> ca984faeba63eff61f996e04ba6423b014734f18
