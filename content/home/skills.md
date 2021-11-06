@@ -19,6 +19,28 @@ feature:
 - icon: python
   icon_pack: fab
   name: python
+- icon: js
+  icon_pack: fab
+  name: javascript
+- icon: docker
+  icon_pack: fab
+  name: docker
+- icon: html5
+  icon_pack: fab
+  name: html5
+- icon: css3-alt
+  icon_pack: fab
+  name: css
+- icon: linux
+  icon_pack: fab
+  name: linux
+
+
+
+
+
+
+
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
