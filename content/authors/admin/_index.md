@@ -1,62 +1,35 @@
 ---
-# Display name
-title: Ali Ali
-
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position/tagline
 role: Freelance Software Developer
-
-# Organizations/Affiliations to show in About widget
-#organizations:
-#- name: Stanford University
-#  url: https://www.stanford.edu/
-
-# Short bio (displayed in user profile at end of posts)
-bio: My intrests are in information security, cloud computing, devops, and automation.
-
-# Interests to show in About widget
+bio: My interests are in information security, cloud computing, devops, and
+  automation.
 interests:
-- Information Security
-- Cloud Computing
-- Devops
-- Automation
-
-# Education to show in About widget
+  - Information Security
+  - Cloud Computing
+  - Devops
+  - Automation
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: /#contact
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/bu3alwa
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/ali-ali01/
 education:
   courses:
-  - course: BSc in Computer Science
-    institution: Kansas State University
-    year: 2018
-
-# Social/Academic Networking
-# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
-social:
-- icon: envelope
-  icon_pack: fas
-  link: '/#contact'
-- icon: github
-  icon_pack: fab
-  link: https://github.com/bu3alwa
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/ali-ali01/
-
-# Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
-# and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
-
-# Highlight the author in author lists? (true/false)
+    - course: BSc in Computer Science
+      institution: Kansas State University
+      year: 2018
+superuser: true
 highlight_name: true
+title: Ali Ali
+email: ""
 ---
+<<<<<<< HEAD
 
 #{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+=======
+I am a computer science graduate that is interested in
+>>>>>>> ca984faeba63eff61f996e04ba6423b014734f18
