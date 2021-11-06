@@ -22,28 +22,35 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Freelance
+    company: Self-Employed
     company_url: ''
     company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+    location: Kuwait
+    date_start: '2018-09-01'
     date_end: ''
     description: |2-
-        Responsibilities include:
+        * Created a Flutter mobile application serving as a proof of concept with a Firebase backend.
+        * Created and Deployed a Vuejs Frontend web application supporting dual language on Google Cloud Computing.
+        * Deployed and maintained cluster with ESXi, automated the deployment of images using Packer for fast and updated template deployments.
+        * Created WPF Application using MVVM Architecture for packet capturing and redirection on local machine using kernel drivers.
+        * Modeled and Designed Web API with CRUD implementation according to OpenAPI Specifications.
         
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Undergraduate Research Assistant
+    company: Kansas State University
     company_url: ''
     company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Kansas
+    date_start: '2015-04-01'
+    date_end: '2016-04-01'
+    description:  |2-
+        * Contributed to a publication regarding Moving Target Defense.
+        * Moving Target Defense: The automation of deployment, deconstruction, reconfiguration, and migration while maintaining high availability to increase randomness and mitigate persistent attacks on nodes.
+        * Created and configured web applications for automated deployment using Puppet.
+        * Benchmarked web applications for analytical data with HTTPERF to ensure high availability and reliability while migration occurs.
+        * Created and tested the effectiveness of identical web applications in two different languages, using Flask and Laravel, with Moving Target
+        Defense.
+        * Created monitoring server to monitor lab infrastructure with Nagios to monitor uptime of infrastructure.
 
 design:
   columns: '2'
