@@ -35,10 +35,10 @@ feature:
   icon_pack: fab
   name: linux
 - icon: git-alt
-  icon_pack:fab
+  icon_pack: fab
   name: git
 - icon: vuejs
-  icon_pack:fab
+  icon_pack: fab
   name: Vue.js
 
 
