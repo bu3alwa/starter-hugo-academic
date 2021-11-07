@@ -19,9 +19,9 @@ feature:
 - icon: python
   icon_pack: fab
   name: python
-- icon: js
+- icon: node-js
   icon_pack: fab
-  name: javascript
+  name: node.js
 - icon: docker
   icon_pack: fab
   name: docker
@@ -34,6 +34,13 @@ feature:
 - icon: linux
   icon_pack: fab
   name: linux
+- icon: git-alt
+  icon_pack:fab
+  name: git
+- icon: vuejs
+  icon_pack:fab
+  name: Vue.js
+
 
 
 
