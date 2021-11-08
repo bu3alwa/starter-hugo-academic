@@ -36,4 +36,5 @@ I am very passionate about cyber security and have participated in multiple ctf'
 
 I would like to continue my education one day and acquire a master's degree with a specialization in cyber security.
 
+
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/public_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
