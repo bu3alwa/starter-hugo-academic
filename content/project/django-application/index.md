@@ -8,7 +8,8 @@ date: 2021-11-07T21:30:50-05:00
 external_link: ""
 url_slides: ""
 title: Django Application
-tags: []
+tags:
+  - Web Development
 categories: []
 image:
   caption: ""
