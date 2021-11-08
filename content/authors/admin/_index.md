@@ -34,6 +34,6 @@ My name is Ali and I graduated from Kansas State University with a BSc. in Compu
 
 I am very passionate about cyber security and have participated in multiple ctf's and tournaments during my University time. I aspire to reach a position red-teaming/pen-testing role. I am also very into automating things, aggregating data, and monitoring. I manage a couple of personal servers and monitor them for entertainment.
 
-I would like to continue my education one day and aquire a master's degree with a specialization in cyber security.
+I would like to continue my education one day and acquire a master's degree with a specialization in cyber security.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/public_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
