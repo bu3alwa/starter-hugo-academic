@@ -1,11 +1,11 @@
 ---
 title: Plex Media Server
-summary: Plex Media Server Setup and Monitoring.
-tags:
- - Devops
 date: 2021-11-08T01:07:21.979Z
+summary: This is one of my favorite personal projects. I set up an automated media...
 draft: false
 featured: false
+tags:
+  - Devops
 image:
   caption: Server Diagram
   focal_point: Smart
