@@ -1,7 +1,7 @@
 ---
 slides: ""
 url_pdf: ""
-summary: ""
+summary: This frontend Vue.js application is using bootstrap for CSS...
 authors: []
 url_video: ""
 date: 2021-11-07T21:29:49-05:00
@@ -9,7 +9,8 @@ featured: true
 external_link: ""
 url_slides: ""
 title: Vue Application
-tags: []
+tags:
+  - Web Development
 categories: []
 image:
   caption: Website in english
