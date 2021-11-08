@@ -1,7 +1,7 @@
 ---
 slides: ""
 url_pdf: ""
-summary: ""
+summary: This flutter application was created as a minimal viable product (MVP) which...
 authors: []
 url_video: ""
 date: 2021-11-07T21:27:42-05:00
