@@ -1,41 +1,23 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
-title: "Vue Application"
+slides: ""
+url_pdf: ""
 summary: ""
 authors: []
+url_video: ""
+date: 2021-11-07T21:29:49-05:00
+featured: true
+external_link: ""
+url_slides: ""
+title: Vue Application
 tags: []
 categories: []
-date: 2021-11-07T21:29:49-05:00
-
-# Optional external URL for project (replaces project detail page).
-external_link: ""
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
   focal_point: ""
   preview_only: false
-
-# Custom links (optional).
-#   Uncomment and edit lines below to show custom links.
-# links:
-# - name: Follow
-#   url: https://twitter.com
-#   icon_pack: fab
-#   icon: twitter
-
+  filename: screenshot-2021-11-07-at-21-15-34-alsalaam-university.png
 url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
-
-# Slides (optional).
-#   Associate this project with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-slides: ""
 ---
+This vuej.s application was a challenging one to create due to the multi-language aspect. The two languages used were English and Arabic, Arabic is written from left to right so the challenge with this project was to be able to switch between languages locally and have the CSS update accordingly and be responsive through mobile and desktop clients.
+
+![](screenshot-2021-11-07-at-21-15-47-alsalaam-university.png)
