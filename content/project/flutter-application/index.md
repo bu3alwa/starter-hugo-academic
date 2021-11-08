@@ -1,41 +1,31 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
-title: "Flutter Application"
+slides: ""
+url_pdf: ""
 summary: ""
 authors: []
-tags: []
-categories: []
+url_video: ""
 date: 2021-11-07T21:27:42-05:00
-
-# Optional external URL for project (replaces project detail page).
+featured: true
 external_link: ""
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+url_slides: ""
+title: Flutter Application
+tags:
+  - Web Development
+categories: []
 image:
-  caption: ""
+  caption: Flutter logo
   focal_point: ""
   preview_only: false
-
-# Custom links (optional).
-#   Uncomment and edit lines below to show custom links.
-# links:
-# - name: Follow
-#   url: https://twitter.com
-#   icon_pack: fab
-#   icon: twitter
-
+  filename: featured.jpg
 url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
-
-# Slides (optional).
-#   Associate this project with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-slides: ""
 ---
+This flutter application was created as a minimal viable product (MVP) which was intended to be a prototype to test the client's business idea. The project was created in flutter due to the client's need for both a mobile application and a website in the future. 
+
+![](screenshot_20211107_212149_com.saleti.saleti.jpg)
+
+![](screenshot_20211107_212233_com.saleti.saleti.jpg)
+
+![](screenshot_20211107_212156_com.saleti.saleti.jpg)
+
+![](screenshot_20211107_212239_com.saleti.saleti.jpg)
+
