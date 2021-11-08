@@ -13,7 +13,7 @@ tags:
   - Web Development
 categories: []
 image:
-  caption: Website in english
+  caption: vue.js frontend
   focal_point: ""
   preview_only: false
   filename: featured.png
